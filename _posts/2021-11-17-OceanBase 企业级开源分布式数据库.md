@@ -1,7 +1,6 @@
 ---
 layout: post
-title: OceanBase 企业级开源分布式数据库.md
-subtitle: OceanBase 企业级开源分布式数据库.md
+title: OceanBase 企业级开源分布式数据库
 date: 2021-11-17
 author: Yano
 catalog: true

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Redis 源码简洁剖析 03 - Dict Hash 基础.md
-subtitle: Redis 源码简洁剖析 03 - Dict Hash 基础.md
+title: Redis 源码简洁剖析 03 - Dict Hash 基础
 date: 2021-12-03
 author: Yano
 catalog: true

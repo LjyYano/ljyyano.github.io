@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 思维导图学 Tomcat & Jetty.md
-subtitle: 思维导图学 Tomcat & Jetty.md
+title: 思维导图学 Tomcat & Jetty
 date: 2020-02-20
 author: Yano
 catalog: true

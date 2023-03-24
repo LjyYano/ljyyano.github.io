@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Redis 源码简洁剖析 18 - 复制、哨兵 Sentinel.md
-subtitle: Redis 源码简洁剖析 18 - 复制、哨兵 Sentinel.md
+title: Redis 源码简洁剖析 18 - 复制、哨兵 Sentinel
 date: 2022-02-26
 author: Yano
 catalog: true

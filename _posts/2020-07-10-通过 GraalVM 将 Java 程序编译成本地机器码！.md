@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 通过 GraalVM 将 Java 程序编译成本地机器码！.md
-subtitle: 通过 GraalVM 将 Java 程序编译成本地机器码！.md
+title: 通过 GraalVM 将 Java 程序编译成本地机器码！
 date: 2020-07-10
 author: Yano
 catalog: true

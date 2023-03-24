@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Redis 源码简洁剖析 11 - 主 IO 线程及 Redis 6.0 多 IO 线程.md
-subtitle: Redis 源码简洁剖析 11 - 主 IO 线程及 Redis 6.0 多 IO 线程.md
+title: Redis 源码简洁剖析 11 - 主 IO 线程及 Redis 6.0 多 IO 线程
 date: 2022-02-08
 author: Yano
 catalog: true

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Java Agent 使用指南 - 破解 IDEA.md
-subtitle: Java Agent 使用指南 - 破解 IDEA.md
+title: Java Agent 使用指南 - 破解 IDEA
 date: 2021-07-31
 author: Yano
 catalog: true

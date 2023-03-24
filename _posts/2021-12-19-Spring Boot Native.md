@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Spring Boot Native.md
-subtitle: Spring Boot Native.md
+title: Spring Boot Native
 date: 2021-12-19
 author: Yano
 catalog: true

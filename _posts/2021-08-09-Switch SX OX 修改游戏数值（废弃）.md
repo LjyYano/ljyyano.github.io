@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Switch SX OX 修改游戏数值（废弃）.md
-subtitle: Switch SX OX 修改游戏数值（废弃）.md
+title: Switch SX OX 修改游戏数值（废弃）
 date: 2021-08-09
 author: Yano
 catalog: true

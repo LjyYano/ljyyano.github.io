@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Redis 源码简洁剖析 10 - aeEventLoop 及事件.md
-subtitle: Redis 源码简洁剖析 10 - aeEventLoop 及事件.md
+title: Redis 源码简洁剖析 10 - aeEventLoop 及事件
 date: 2022-02-06
 author: Yano
 catalog: true

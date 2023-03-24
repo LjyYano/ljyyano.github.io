@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 对 Kotlin 与 Java 编程语言的思考.md
-subtitle: 对 Kotlin 与 Java 编程语言的思考.md
+title: 对 Kotlin 与 Java 编程语言的思考
 date: 2019-06-06
 author: Yano
 catalog: true

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: GC progress from JDK 8 to JDK 17.md
-subtitle: GC progress from JDK 8 to JDK 17.md
+title: GC progress from JDK 8 to JDK 17
 date: 2021-12-06
 author: Yano
 catalog: true

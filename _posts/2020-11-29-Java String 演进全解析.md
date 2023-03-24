@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Java String 演进全解析.md
-subtitle: Java String 演进全解析.md
+title: Java String 演进全解析
 date: 2020-11-29
 author: Yano
 catalog: true

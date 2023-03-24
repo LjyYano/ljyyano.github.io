@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Lucene、Elasticsearch、Kibana 入门教程和环境搭建.md
-subtitle: Lucene、Elasticsearch、Kibana 入门教程和环境搭建.md
+title: Lucene、Elasticsearch、Kibana 入门教程和环境搭建
 date: 2020-07-03
 author: Yano
 catalog: true

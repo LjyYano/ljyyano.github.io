@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Spring Bean 的 Scope、生命周期和循环依赖分析.md
-subtitle: Spring Bean 的 Scope、生命周期和循环依赖分析.md
+title: Spring Bean 的 Scope、生命周期和循环依赖分析
 date: 2021-05-13
 author: Yano
 catalog: true

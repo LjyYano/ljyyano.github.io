@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Netty 的 Channel、Promise、Pipeline 详解.md
-subtitle: Netty 的 Channel、Promise、Pipeline 详解.md
+title: Netty 的 Channel、Promise、Pipeline 详解
 date: 2019-10-26
 author: Yano
 catalog: true

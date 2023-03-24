@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Java ClassLoader.md
-subtitle: Java ClassLoader.md
+title: Java ClassLoader
 date: 2021-09-13
 author: Yano
 catalog: true

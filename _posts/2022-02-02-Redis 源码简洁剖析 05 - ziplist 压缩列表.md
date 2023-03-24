@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Redis 源码简洁剖析 05 - ziplist 压缩列表.md
-subtitle: Redis 源码简洁剖析 05 - ziplist 压缩列表.md
+title: Redis 源码简洁剖析 05 - ziplist 压缩列表
 date: 2022-02-02
 author: Yano
 catalog: true

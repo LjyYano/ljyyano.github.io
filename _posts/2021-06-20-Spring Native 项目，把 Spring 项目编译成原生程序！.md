@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Spring Native 项目，把 Spring 项目编译成原生程序！.md
-subtitle: Spring Native 项目，把 Spring 项目编译成原生程序！.md
+title: Spring Native 项目，把 Spring 项目编译成原生程序！
 date: 2021-06-20
 author: Yano
 catalog: true

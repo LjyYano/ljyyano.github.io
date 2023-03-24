@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 通过 Netty、ZooKeeper 手撸一个 RPC 服务.md
-subtitle: 通过 Netty、ZooKeeper 手撸一个 RPC 服务.md
+title: 通过 Netty、ZooKeeper 手撸一个 RPC 服务
 date: 2021-05-08
 author: Yano
 catalog: true

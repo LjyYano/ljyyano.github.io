@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Java LockSupport 工具类.md
-subtitle: Java LockSupport 工具类.md
+title: Java LockSupport 工具类
 date: 2021-08-16
 author: Yano
 catalog: true

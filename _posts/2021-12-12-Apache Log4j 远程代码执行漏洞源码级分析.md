@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Apache Log4j 远程代码执行漏洞源码级分析.md
-subtitle: Apache Log4j 远程代码执行漏洞源码级分析.md
+title: Apache Log4j 远程代码执行漏洞源码级分析
 date: 2021-12-12
 author: Yano
 catalog: true

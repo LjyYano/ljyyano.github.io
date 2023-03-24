@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Redis 源码简洁剖析 09 - Reactor 模型.md
-subtitle: Redis 源码简洁剖析 09 - Reactor 模型.md
+title: Redis 源码简洁剖析 09 - Reactor 模型
 date: 2022-02-06
 author: Yano
 catalog: true

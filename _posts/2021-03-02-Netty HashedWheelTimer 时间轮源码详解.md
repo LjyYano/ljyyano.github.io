@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Netty HashedWheelTimer 时间轮源码详解.md
-subtitle: Netty HashedWheelTimer 时间轮源码详解.md
+title: Netty HashedWheelTimer 时间轮源码详解
 date: 2021-03-02
 author: Yano
 catalog: true

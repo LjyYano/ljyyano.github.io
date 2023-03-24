@@ -1,7 +1,6 @@
 ---
 layout: post
-title: RocketMQ 源码分析系列 00 - 消息发送和消息接收 Hello world.md
-subtitle: RocketMQ 源码分析系列 00 - 消息发送和消息接收 Hello world.md
+title: RocketMQ 源码分析系列 00 - 消息发送和消息接收 Hello world
 date: 2022-11-30
 author: Yano
 catalog: true

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Java Stream 源码分析.md
-subtitle: Java Stream 源码分析.md
+title: Java Stream 源码分析
 date: 2020-12-03
 author: Yano
 catalog: true

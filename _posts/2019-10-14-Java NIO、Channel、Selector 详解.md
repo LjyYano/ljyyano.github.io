@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Java NIO、Channel、Selector 详解.md
-subtitle: Java NIO、Channel、Selector 详解.md
+title: Java NIO、Channel、Selector 详解
 date: 2019-10-14
 author: Yano
 catalog: true

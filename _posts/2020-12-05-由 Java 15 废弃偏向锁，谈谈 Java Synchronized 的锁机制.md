@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 由 Java 15 废弃偏向锁，谈谈 Java Synchronized 的锁机制.md
-subtitle: 由 Java 15 废弃偏向锁，谈谈 Java Synchronized 的锁机制.md
+title: 由 Java 15 废弃偏向锁，谈谈 Java Synchronized 的锁机制
 date: 2020-12-05
 author: Yano
 catalog: true

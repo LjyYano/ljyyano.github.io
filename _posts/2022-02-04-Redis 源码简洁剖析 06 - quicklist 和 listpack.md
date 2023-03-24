@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Redis 源码简洁剖析 06 - quicklist 和 listpack.md
-subtitle: Redis 源码简洁剖析 06 - quicklist 和 listpack.md
+title: Redis 源码简洁剖析 06 - quicklist 和 listpack
 date: 2022-02-04
 author: Yano
 catalog: true

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Redis 源码简洁剖析 04 - Sorted Set 有序集合.md
-subtitle: Redis 源码简洁剖析 04 - Sorted Set 有序集合.md
+title: Redis 源码简洁剖析 04 - Sorted Set 有序集合
 date: 2022-01-29
 author: Yano
 catalog: true

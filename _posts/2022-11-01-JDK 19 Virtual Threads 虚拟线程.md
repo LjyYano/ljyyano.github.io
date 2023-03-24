@@ -1,7 +1,6 @@
 ---
 layout: post
-title: JDK 19 Virtual Threads 虚拟线程.md
-subtitle: JDK 19 Virtual Threads 虚拟线程.md
+title: JDK 19 Virtual Threads 虚拟线程
 date: 2022-11-01
 author: Yano
 catalog: true

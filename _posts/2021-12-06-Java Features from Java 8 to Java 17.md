@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Java Features from Java 8 to Java 17.md
-subtitle: Java Features from Java 8 to Java 17.md
+title: Java Features from Java 8 to Java 17
 date: 2021-12-06
 author: Yano
 catalog: true

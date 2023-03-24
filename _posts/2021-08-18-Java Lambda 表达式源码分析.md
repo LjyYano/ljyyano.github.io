@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Java Lambda 表达式源码分析.md
-subtitle: Java Lambda 表达式源码分析.md
+title: Java Lambda 表达式源码分析
 date: 2021-08-18
 author: Yano
 catalog: true

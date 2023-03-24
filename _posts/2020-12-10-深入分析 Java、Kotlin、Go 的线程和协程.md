@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 深入分析 Java、Kotlin、Go 的线程和协程.md
-subtitle: 深入分析 Java、Kotlin、Go 的线程和协程.md
+title: 深入分析 Java、Kotlin、Go 的线程和协程
 date: 2020-12-10
 author: Yano
 catalog: true

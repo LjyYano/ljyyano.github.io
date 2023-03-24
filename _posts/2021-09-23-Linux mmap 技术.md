@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Linux mmap 技术.md
-subtitle: Linux mmap 技术.md
+title: Linux mmap 技术
 date: 2021-09-23
 author: Yano
 catalog: true
